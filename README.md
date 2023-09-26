@@ -1,2 +1,2 @@
 My first readme
-pepsi & cocacola
+pepsi & cocacolas
